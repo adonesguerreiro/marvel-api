@@ -1,0 +1,4 @@
+output
+*.html
+*.xml
+__pycache__
